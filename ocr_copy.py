@@ -5,10 +5,10 @@
 
 
 # If having issues with script can output an error log to troubleshoot
-#import sys
+# import sys
 # Redirect stdout and stderr to a file
-#sys.stdout = open('output.log', 'w')
-#sys.stderr = open('error.log', 'w')
+# sys.stdout = open('output.log', 'w')
+# sys.stderr = open('error.log', 'w')
 
 import pytesseract
 
