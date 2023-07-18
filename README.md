@@ -8,7 +8,7 @@ Expected usage looks like this:
 4. Now that the image is in the clipboard, press ctrl+Shift+q (This performs the OCR)
 5. Then paste like normal using ctrl+v and you will find extracted text
 
-Optional: If you want this to run at startup you can export it as a .py or .pyw and put it in the startup folder. (.pyw is supposed to supressed cmd prompt at start up of program, but it doesn't work on my system and has little support online)
+Optional: If you want this to run at startup you can export it as a .py or .pyw and put its shortcut in the startup folder. (.pyw is supposed to supressed cmd prompt at start up of program, but it doesn't work on my system and has little support online)
 To easily open the startup folder:
 1. press WindowsKey+r
 2. Type into the dialogbox 'shell:startup' (without quotes)
