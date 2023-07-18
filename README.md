@@ -1,7 +1,7 @@
 # OCR-copy_paste
 It's like copy/pasta but instead of normal text enables one to take a copied image with text in it, perform Optical Character Recognition on the image, and then outputs the text using ctrl+v
 
-Usage looks like this:
+Expected usage looks like this:
 1. See text in an image you'd like to extract
 2. Take a screenshot of the image using WindowsKey+Shift+s
 3. Select the box you want to copy to the clipboard
