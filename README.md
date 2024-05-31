@@ -1,5 +1,5 @@
 # OCR-copy_paste
-It's like copy/pasta but instead of normal text enables one to take a copied image with text in it, perform Optical Character Recognition on the image, and then outputs the text using ctrl+v
+It's like copy/pasta (using ctlr+c and ctrl+v) but instead of copying text, it scans an image for text (ctlr+shift+q) and then pastes it (ctrl+v)
 
 Expected usage looks like this:
 1. See text in an image you'd like to extract
