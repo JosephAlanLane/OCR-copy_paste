@@ -1,5 +1,6 @@
 # OCR-copy_paste
 It's like copy/pasta (using ctlr+c and ctrl+v) but instead of copying text, it scans an image for text (ctlr+shift+q) and then pastes it (ctrl+v)
+I made this because I occasionally see images with text on them and want to copy the text without rewriting it. 
 
 Expected usage looks like this:
 1. See text in an image you'd like to extract
