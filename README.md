@@ -4,7 +4,7 @@ I made this because I occasionally see images with text on them and want to copy
 
 Expected usage looks like this:
 1. See text in an image you'd like to extract
-2. Take a screenshot of the image using WindowsKey+Shift+s
+2. Take a screenshot of the image using WindowsKey+Shift+s (or Command+Shift+4 on macOS)
 3. Select the box you want to copy to the clipboard
 4. Now that the image is in the clipboard, press ctrl+Shift+q (This performs the OCR)
 5. Then paste like normal using ctrl+v and you will find extracted text
